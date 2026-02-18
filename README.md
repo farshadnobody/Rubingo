@@ -1,0 +1,2 @@
+# Rubingo
+rubika Go library
