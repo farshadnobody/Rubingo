@@ -50,9 +50,9 @@ nav:
         icon: 📋
   - title: جامع
     items:
-      - label: 
-        url: /docs/methods/
-        icon: 📋
-      - label: جدول متدها
-        url: /docs/methods/
-        icon: 📋
+      - label: پروکسی با توضیحات کاملتر
+        url: /docs/proxyfullexplained/
+        icon: ♾️
+      - label: تمام توضیحات یکجا و جامع تر (به جز پروکسی)
+        url: /docs/readmegeneral/
+        icon: 🕳️
