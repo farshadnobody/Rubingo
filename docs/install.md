@@ -1,6 +1,7 @@
 ---
 layout: default
 title: نصب و راه‌اندازی
+permalink: /docs/install/
 ---
 
 # نصب و راه‌اندازی
