@@ -1,6 +1,7 @@
 ---
 layout: default
 title: گروه و کانال
+permalink: /docs/groups/
 ---
 
 # گروه و کانال
