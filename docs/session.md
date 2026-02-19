@@ -1,6 +1,7 @@
 ---
 layout: default
 title: مدیریت سشن
+permalink: /docs/session/
 ---
 
 # مدیریت سشن
