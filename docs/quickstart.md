@@ -1,6 +1,7 @@
 ---
 layout: default
 title: شروع سریع
+permalink: /docs/quickstart/
 ---
 
 # شروع سریع
