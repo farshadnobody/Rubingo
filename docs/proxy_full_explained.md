@@ -1,3 +1,8 @@
+---
+layout: default
+title: پروکسی با توضیحات کاملتر
+permalink: /docs/proxyfullexplained/
+---
 
 
 ```markdown
@@ -851,4 +856,5 @@ MIT License
 > 3. تمام! همه درخواست‌ها از پروکسی رد می‌شوند
 > 4. هر وقت خواستید غیرفعال کنید: `DisableProxy()`
 > 5. پیش‌فرض: **غیرفعال** 🔴
+
 ```
