@@ -1,6 +1,7 @@
 ---
 layout: default
 title: جدول متدها
+permalink: /docs/methods/
 ---
 
 # جدول متدها
