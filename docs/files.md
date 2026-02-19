@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ارسال فایل
+permalink: /docs/files/
 ---
 
 # ارسال فایل
