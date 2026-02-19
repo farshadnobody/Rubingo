@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ارسال پیام
+permalink: /docs/messaging/
 ---
 
 # ارسال پیام
