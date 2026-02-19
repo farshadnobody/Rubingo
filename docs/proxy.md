@@ -1,6 +1,7 @@
 ---
 layout: default
 title: پروکسی
+permalink: /docs/proxy/
 ---
 
 # 🔒 راهنمای پروکسی
