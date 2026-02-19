@@ -48,3 +48,11 @@ nav:
       - label: جدول متدها
         url: /docs/methods/
         icon: 📋
+  - title: جامع
+    items:
+      - label: 
+        url: /docs/methods/
+        icon: 📋
+      - label: جدول متدها
+        url: /docs/methods/
+        icon: 📋
