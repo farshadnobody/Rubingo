@@ -1,0 +1,50 @@
+title: Rubingo
+description: کتابخانه Go برای ارتباط با پیام‌رسان روبیکا
+url: "https://farshadnobody.github.io"
+baseurl: "/Rubingo"
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-seo-tag
+
+# ناوبری sidebar — هر فایل MD رو اینجا اضافه کن
+nav:
+  - title: شروع
+    items:
+      - label: معرفی
+        url: /
+        icon: 📖
+      - label: نصب و راه‌اندازی
+        url: /docs/install/
+        icon: 📦
+      - label: شروع سریع
+        url: /docs/quickstart/
+        icon: ⚡
+  - title: راهنماها
+    items:
+      - label: ارسال پیام
+        url: /docs/messaging/
+        icon: 💬
+      - label: ارسال فایل
+        url: /docs/files/
+        icon: 📁
+      - label: گروه و کانال
+        url: /docs/groups/
+        icon: 👥
+      - label: پروکسی
+        url: /docs/proxy/
+        icon: 🔒
+      - label: مدیریت سشن
+        url: /docs/session/
+        icon: 🗃️
+  - title: مرجع
+    items:
+      - label: جدول متدها
+        url: /docs/methods/
+        icon: 📋
